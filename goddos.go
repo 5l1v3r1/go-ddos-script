@@ -205,7 +205,7 @@ func flood() {
 
 func main() {
 	fmt.Println("==========================================================================")
-	fmt.Println("========================= ValmHost DDoS Script ===========================")
+	fmt.Println("========================= Lemonade DDoS Script ===========================")
 	fmt.Println("==========================================================================")
 	if len(os.Args) != 6 {
 		fmt.Println("Sintaxa: ", "<url> <threads> <get/post> <seconds> <header.txt/nil>")
